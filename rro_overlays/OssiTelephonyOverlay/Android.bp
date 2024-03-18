@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "OssiTelephonyOverlay",
+    product_specific: true,
+}
