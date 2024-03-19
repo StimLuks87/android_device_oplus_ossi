@@ -18,7 +18,7 @@ $(call inherit-product, device/oplus/ossi/device.mk)
 PRODUCT_DEVICE := ossi
 PRODUCT_NAME := lineage_ossi
 PRODUCT_BRAND := oplus
-PRODUCT_MODEL := RMX2155
+PRODUCT_MODEL := realme 7/Narzo 20 Pro/Narzo 30 4G
 PRODUCT_MANUFACTURER := oplus
 
 PRODUCT_GMS_CLIENTID_BASE := android-oplus
