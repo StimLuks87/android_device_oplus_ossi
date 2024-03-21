@@ -1,27 +1,32 @@
 [
    {
-      "branch"     : "14",
       "repository" : "stormbreaker-project/kernel_realme_salaa",
       "target_path": "kernel/oplus/mt6785"
+      "branch"     : "14",
+      "remote": "stormbreaker-project"
    },
    {
-      "branch"     : "lineage-21",
       "repository" : "StimLuks87/vendor_oplus_ossi",
       "target_path": "vendor/oplus/ossi"
+      "branch"     : "lineage-21",
+      "remote": "StimLuks87"
    },
    {
       "repository" : "LineageOS/android_device_mediatek_sepolicy_vndr",
       "target_path": "device/mediatek/sepolicy_vndr",
       "branch"     : "lineage-21"
+      "remote": "LineageOS"
    },
    {
       "repository" : "LineageOS/android_hardware_mediatek",
       "target_path": "hardware/mediatek",
       "branch"     : "lineage-21"
+      "remote": "LineageOS"
    },
    {
       "repository" : "LineageOS/android_hardware_oplus",
       "target_path": "hardware/oplus",
       "branch"     : "lineage-21"
+      "remote": "LineageOS"
    }
 ]
