@@ -1,4 +1,4 @@
-# Unpinned blobs from sys_mssi_64_cn_armv82-user 12 SP1A.210812.016 1668670161293 release-keys
+# Unpinned blobs from RMX2155GDPR_11_F.12_202301071547
 
 # ADSP
 vendor/lib64/libadsprpc.so
@@ -2122,6 +2122,7 @@ odm/etc/wifi/wifi.cfg
 odm/etc/wifi/wifi_active_channel.cfg
 odm/etc/wifi/wifi_passive_channel.cfg
 vendor/bin/hw/tetheroffloadservice
+vendor/bin/hw/wpa_supplicant
 vendor/bin/netdagent
 vendor/bin/netdc
 vendor/bin/wfca
@@ -2146,3 +2147,4 @@ vendor/lib64/libwo.so
 vendor/lib64/vendor.mediatek.hardware.apmonitor@2.0.so
 vendor/lib64/vendor.mediatek.hardware.mdmonitor@1.0.so
 vendor/lib64/vendor.mediatek.hardware.netdagent@1.0.so
+vendor/lib64/vendor.oplus.hardware.wifi.supplicant@2.0.so

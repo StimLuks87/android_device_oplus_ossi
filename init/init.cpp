@@ -122,7 +122,7 @@ void set_device_props(void){
             case 148:
                 device="RMX2155L1";
                 model="RMX2155";
-                fingerprint="realme/RMX2155/RMX2155L1:12/SP1A.210812.016/Q.GDPR.bf75e7-1:user/release-keys";
+                fingerprint="realme/RMX2155/RMX2155L1:12/SP1A.210812.016/Q.GDPR.202301071547:user/release-keys";
                 market_name="realme 7";
                 break;
             case 90:
